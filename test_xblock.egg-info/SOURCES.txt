@@ -1,0 +1,13 @@
+setup.py
+test/__init__.py
+test/test.py
+test/static/README.txt
+test/static/css/test.css
+test/static/html/test.html
+test/static/js/src/test.js
+test_xblock.egg-info/PKG-INFO
+test_xblock.egg-info/SOURCES.txt
+test_xblock.egg-info/dependency_links.txt
+test_xblock.egg-info/entry_points.txt
+test_xblock.egg-info/requires.txt
+test_xblock.egg-info/top_level.txt
